@@ -32,7 +32,7 @@ This repository maintains a list of individuals who have been identified as "ski
 - <b>Reason:</b> he skidded minecraft to make lugamicraft, skidded praxi, and called ziue (the top sped) a skid 🔥.
 
 ## Cinger (for the memez hehe, just a joke)
-- <b>Aliases:Desistrei</b>
+- <b>Aliases:N/A</b>
 - <b>Reason:</b> he skidded roblox scripts no cap! 🔥.
 
 # How to Contribute to This List
