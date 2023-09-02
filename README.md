@@ -27,6 +27,14 @@ This repository maintains a list of individuals who have been identified as "ski
 - <b>Aliases:</b> zash.mx
 - <b>Reason:</b> Posing as a web developer, he inquired about the visual appeal and cleanliness of a website he claimed to be crafting. However, it was later revealed that he was merely copying code directly from Bootstrap 5's examples, falsely asserting authorship. Furthermore, he openly admitted to engaging in skidding activities in the past.
 
+## lugami (for the memez hehe, just a joke)
+- <b>Aliases:Desistrei</b>
+- <b>Reason:</b> he skidded minecraft to make lugamicraft, skidded praxi, and called ziue (the top sped) a skid 🔥.
+
+## Cinger (for the memez hehe, just a joke)
+- <b>Aliases:Desistrei</b>
+- <b>Reason:</b> he skidded roblox scripts no cap! 🔥.
+
 # How to Contribute to This List
 
 If you would like to contribute to this list and add individuals who you believe should be included, please follow these steps:
